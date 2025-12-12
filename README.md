@@ -14,4 +14,5 @@ A macOS system health check script that collects CPU, memory, disk, network, and
 
 ## How to Run
 chmod +x health-check.sh
+
 ./health-check.sh
