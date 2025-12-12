@@ -35,3 +35,13 @@ The report is saved locally for easy review or sharing.
 - macOS
 - Terminal (built-in)
 - No additional software or dependencies required
+
+---
+
+## Screenshots
+
+### Running the system health check and generated report
+![System health check running and report output](screenshots/scriptRun_reportOut.png)
+
+### Generated system report end
+![System report output](screenshots/scriptRun_reportOut1.png)
