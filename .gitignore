@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Windows system files (in case repo is opened on Windows)
+Thumbs.db
+
+# Generated reports (do not commit output files)
+system_reports/
+
+# Temporary / editor files
+.vscode/
+.idea/
